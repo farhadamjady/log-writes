@@ -1,5 +1,5 @@
-# Log Writer
-This module is a simple logger writes colorful and in-file logs.
+# Log Writes
+This module is a simple logger, writes colorful and in-file logs.
 
 ## Install
 
